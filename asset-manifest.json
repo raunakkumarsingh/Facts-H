@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.5da83443.css",
-    "main.js": "./static/js/main.eeeaba46.js",
+    "main.js": "./static/js/main.f8d609ca.js",
     "static/js/453.727a817f.chunk.js": "./static/js/453.727a817f.chunk.js",
     "static/media/iiitkottayam2.jpg": "./static/media/iiitkottayam2.4026fd10f1ef50f4c10a.jpg",
     "static/media/lab2.png": "./static/media/lab2.2ed7e93e1eeefb90341b.png",
@@ -105,11 +105,11 @@
     "static/media/linkedin1.svg": "./static/media/linkedin1.dbcccf9f1df6c10dccc70cb495c270b7.svg",
     "static/media/ArrowIcon.svg": "./static/media/ArrowIcon.f3a323af9973db2e9b1e.svg",
     "main.5da83443.css.map": "./static/css/main.5da83443.css.map",
-    "main.eeeaba46.js.map": "./static/js/main.eeeaba46.js.map",
+    "main.f8d609ca.js.map": "./static/js/main.f8d609ca.js.map",
     "453.727a817f.chunk.js.map": "./static/js/453.727a817f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5da83443.css",
-    "static/js/main.eeeaba46.js"
+    "static/js/main.f8d609ca.js"
   ]
 }
