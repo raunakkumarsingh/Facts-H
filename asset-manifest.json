@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.5da83443.css",
-    "main.js": "./static/js/main.f8d609ca.js",
+    "main.js": "./static/js/main.dcd665b5.js",
     "static/js/453.727a817f.chunk.js": "./static/js/453.727a817f.chunk.js",
     "static/media/iiitkottayam2.jpg": "./static/media/iiitkottayam2.4026fd10f1ef50f4c10a.jpg",
     "static/media/lab2.png": "./static/media/lab2.2ed7e93e1eeefb90341b.png",
@@ -15,6 +15,7 @@
     "static/media/banner2.png": "./static/media/banner2.20cc40742fe6ea9f181d.png",
     "static/media/lab1.png": "./static/media/lab1.b6cef1a3cec8678582f1.png",
     "static/media/visit2.png": "./static/media/visit2.a26df7f67a493e98a708.png",
+    "static/media/publishedpaper.pdf": "./static/media/publishedpaper.862999729e9510d8abbb.pdf",
     "static/media/logo.png": "./static/media/logo.bc10c4622208c0d6922d.png",
     "static/media/Julie Sara Benny.png": "./static/media/Julie Sara Benny.8cf93e3e11ef5e8c9048.png",
     "static/media/Helena_Thomas.png": "./static/media/Helena_Thomas.f945fa6468b240922940.png",
@@ -100,16 +101,16 @@
     "index.html": "./index.html",
     "static/media/mail.svg": "./static/media/mail.f429c33853b92f1a04ca.svg",
     "static/media/mail1.svg": "./static/media/mail1.e45b73872f21ed8fddae4dd0c3c2b18a.svg",
-    "static/media/hamburger.svg": "./static/media/hamburger.3af4e13b8ee2fe935089.svg",
-    "static/media/linkedin.svg": "./static/media/linkedin.c341cc1c307221b0fe42.svg",
-    "static/media/linkedin1.svg": "./static/media/linkedin1.dbcccf9f1df6c10dccc70cb495c270b7.svg",
-    "static/media/ArrowIcon.svg": "./static/media/ArrowIcon.f3a323af9973db2e9b1e.svg",
+    "static/media/hamburger.svg": "./static/media/hamburger.ffa0f1395d5b979db0ce.svg",
+    "static/media/linkedin.svg": "./static/media/linkedin.01867e18e471fa792bc6.svg",
+    "static/media/linkedin1.svg": "./static/media/linkedin1.16c0d8a59525877e9d2ec48b0ac93d9e.svg",
+    "static/media/ArrowIcon.svg": "./static/media/ArrowIcon.34642edd42d5aa22b94c.svg",
     "main.5da83443.css.map": "./static/css/main.5da83443.css.map",
-    "main.f8d609ca.js.map": "./static/js/main.f8d609ca.js.map",
+    "main.dcd665b5.js.map": "./static/js/main.dcd665b5.js.map",
     "453.727a817f.chunk.js.map": "./static/js/453.727a817f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5da83443.css",
-    "static/js/main.f8d609ca.js"
+    "static/js/main.dcd665b5.js"
   ]
 }
