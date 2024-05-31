@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.5da83443.css",
-    "main.js": "./static/js/main.274d93c7.js",
+    "main.css": "./static/css/main.c5b30a5d.css",
+    "main.js": "./static/js/main.139bda94.js",
     "static/js/453.727a817f.chunk.js": "./static/js/453.727a817f.chunk.js",
     "static/media/iiitkottayam2.jpg": "./static/media/iiitkottayam2.4026fd10f1ef50f4c10a.jpg",
     "static/media/lab2.png": "./static/media/lab2.2ed7e93e1eeefb90341b.png",
@@ -92,6 +92,7 @@
     "static/media/petra.png": "./static/media/petra.e0dc6a3091d44384d468.png",
     "static/media/Bhargawa.png": "./static/media/Bhargawa.c38a9aeefee9a8020547.png",
     "static/media/Sikha_S.jpeg": "./static/media/Sikha_S.60e75413abb94eb94b27.jpeg",
+    "static/media/new.gif": "./static/media/new.1c5881b56cd10b08e720.gif",
     "static/media/Renji_S.png": "./static/media/Renji_S.b56501aba4ccd4f690d5.png",
     "static/media/chinju.jpg": "./static/media/chinju.5dbe342c428ca5eca825.jpg",
     "static/media/chinju.png": "./static/media/chinju.5dbe342c428ca5eca825.png",
@@ -105,12 +106,12 @@
     "static/media/linkedin.svg": "./static/media/linkedin.01867e18e471fa792bc6.svg",
     "static/media/linkedin1.svg": "./static/media/linkedin1.16c0d8a59525877e9d2ec48b0ac93d9e.svg",
     "static/media/ArrowIcon.svg": "./static/media/ArrowIcon.34642edd42d5aa22b94c.svg",
-    "main.5da83443.css.map": "./static/css/main.5da83443.css.map",
-    "main.274d93c7.js.map": "./static/js/main.274d93c7.js.map",
+    "main.c5b30a5d.css.map": "./static/css/main.c5b30a5d.css.map",
+    "main.139bda94.js.map": "./static/js/main.139bda94.js.map",
     "453.727a817f.chunk.js.map": "./static/js/453.727a817f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5da83443.css",
-    "static/js/main.274d93c7.js"
+    "static/css/main.c5b30a5d.css",
+    "static/js/main.139bda94.js"
   ]
 }
